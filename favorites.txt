@@ -1,3 +1,9 @@
+FOODS
 fish
 fruits
 vegetables
+
+MOVIES
+Lord of The Rings
+Pay It Forward
+Avengers
